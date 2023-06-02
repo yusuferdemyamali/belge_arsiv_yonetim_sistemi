@@ -82,13 +82,13 @@ namespace finalproje
         private void btnDegistir_Click(object sender, EventArgs e)
         {
             string sql = "UPDATE muhasebe_evraklari " +
-    "SET SatinAlinanMal=@alınanmal,Alinan_Adet=@alınanadet,SatinAlim_Tarih=@alımtarih" +
+    "SET AlinanMal=@alınanmal,Alinan_Adet=@alınanadet,SatinAlim_Tarih=@alımtarih" +
     " WHERE Fatura_ID=@faturaid";
             cmd = new MySqlCommand(sql, conn);
             cmd.Parameters.AddWithValue("@alınanmal", txtAlınanMal.Text);
             cmd.Parameters.AddWithValue("@alınanadet", txtAlınanAdet.Text);
             cmd.Parameters.AddWithValue("@alımtarih", dateAlınanTarih.Text);
-            cmd.Parameters.AddWithValue("@id", Convert.ToInt32(txtfaturaID.Text));
+            cmd.Parameters.AddWithValue("@faturaid", Convert.ToInt32(txtfaturaID.Text));
             conn.Open();
             cmd.ExecuteNonQuery();
             conn.Close();

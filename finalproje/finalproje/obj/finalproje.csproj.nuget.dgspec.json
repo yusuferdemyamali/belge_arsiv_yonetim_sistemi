@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tr\\Documents\\dev\\c#\\start\\finalproje\\finalproje\\finalproje.csproj": {}
+    "C:\\Users\\tr\\Downloads\\belge_arsiv_yonetim_sistemi-main\\belge_arsiv_yonetim_sistemi-main\\finalproje\\finalproje\\finalproje.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tr\\Documents\\dev\\c#\\start\\finalproje\\finalproje\\finalproje.csproj": {
+    "C:\\Users\\tr\\Downloads\\belge_arsiv_yonetim_sistemi-main\\belge_arsiv_yonetim_sistemi-main\\finalproje\\finalproje\\finalproje.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tr\\Documents\\dev\\c#\\start\\finalproje\\finalproje\\finalproje.csproj",
+        "projectUniqueName": "C:\\Users\\tr\\Downloads\\belge_arsiv_yonetim_sistemi-main\\belge_arsiv_yonetim_sistemi-main\\finalproje\\finalproje\\finalproje.csproj",
         "projectName": "finalproje",
-        "projectPath": "C:\\Users\\tr\\Documents\\dev\\c#\\start\\finalproje\\finalproje\\finalproje.csproj",
+        "projectPath": "C:\\Users\\tr\\Downloads\\belge_arsiv_yonetim_sistemi-main\\belge_arsiv_yonetim_sistemi-main\\finalproje\\finalproje\\finalproje.csproj",
         "packagesPath": "C:\\Users\\tr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tr\\Documents\\dev\\c#\\start\\finalproje\\finalproje\\obj\\",
+        "outputPath": "C:\\Users\\tr\\Downloads\\belge_arsiv_yonetim_sistemi-main\\belge_arsiv_yonetim_sistemi-main\\finalproje\\finalproje\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tr\\AppData\\Roaming\\NuGet\\NuGet.Config",

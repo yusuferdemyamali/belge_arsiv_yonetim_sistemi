@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tr5lc58FIsjUoVrIZtqoj2BpsSE2R5j2bh5N2HPhzmyoX6PbcSeL1PsuoxYJBM1iHmp0ixx5TMRodkF3V7UqQQ==",
+  "dgSpecHash": "sbotJAvhSwukP2qiXUy4E6UxmIb+JHxlora0Cpg68AbuZYbPbkI4T4sfaQiiJFDNSFN57OXwsTtw2AZMsKra2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tr\\Documents\\dev\\c#\\start\\finalproje\\finalproje\\finalproje.csproj",
+  "projectFilePath": "C:\\Users\\tr\\Downloads\\belge_arsiv_yonetim_sistemi-main\\belge_arsiv_yonetim_sistemi-main\\finalproje\\finalproje\\finalproje.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tr\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\tr\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",
