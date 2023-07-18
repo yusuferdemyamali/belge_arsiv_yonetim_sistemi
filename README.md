@@ -1,2 +1,2 @@
-# belge_arsiv_yonetim_sistemi
- Uludağ Üniversitesi Nesne Yönelimli Programlama dersi Grup-9 için final projesi.
+# Belge Arşiv Yönetim Sistemi
+ Giriş seviye C# tabanlı SQL ile birlikte yazılmış belge arşiv yönetim sistemi
